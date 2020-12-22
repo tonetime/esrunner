@@ -4,11 +4,10 @@ Command line helper for ESBuild
 ESBuild a js file
 
 Commands:
-  esrunner start [jsfile]  ESBuild a js file                       [default] [aliases: s]
-  esrunner build [jsfile]  ESBuild for production                            [aliases: b]
-
+  esrunner start [jsfile]  ESBuild a js file 
+  esrunner build [jsfile]  ESBuild for production 
 Options:
-      --version  Show version number                                            [boolean]
-  -p, --port     Port number                                     [number] [default: 8080]
-  -r, --root     Root directory                                       [default: "public"]
-      --help     Show help                                                      [boolean]
+   -p, --port     Port number  
+   -r, --root     Root directory 
+       --help     Show help   
+   
