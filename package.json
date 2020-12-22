@@ -1,0 +1,22 @@
+{
+  "name": "esrunner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^3.4.3",
+    "esbuild": "^0.8.26",
+    "install": "^0.13.0",
+    "live-server": "^1.2.1",
+    "yargs": "^16.2.0"
+  },
+  "bin": {
+    "esrunner": "esrunner.js"
+  }
+}
